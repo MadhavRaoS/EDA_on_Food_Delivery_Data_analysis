@@ -66,7 +66,8 @@ Data visualization is a key component of this project, providing graphical repre
   ![](I3)
   ![](I4.png)
   
-- **Box plots**: Show distributions, outliers, and spread of data.
+- **Box plots**: Show distributions, outliers, and spread of data
+
   ![Box Plot - Ratings Based on Online Orders](I5.png)
   ![Box Plot - Ratings by Restaurant Type](I6.png)
   ![](I7.png)
