@@ -62,11 +62,14 @@ Data visualization is a key component of this project, providing graphical repre
   ![](I2.png)
   
 - **Count plots**: Display counts of categorical variables (e.g., restaurant locations, vote counts).
-  ![Count Plot - Number of Restaurants by Location](path_to_image2.png)
+  ![Count Plot - Number of Restaurants by Location](I3.png)
+  ![](I3)
+  ![](I4.png)
   
 - **Box plots**: Show distributions, outliers, and spread of data (e.g., restaurant ratings by facilities like online orders and book tables).
-  ![Box Plot - Ratings Based on Online Orders](path_to_image3.png)
-  ![Box Plot - Ratings by Restaurant Type](path_to_image4.png)
+  ![Box Plot - Ratings Based on Online Orders](I5.png)
+  ![Box Plot - Ratings by Restaurant Type](I6.png)
+  ![](I7)
 
 Visualization libraries used:
 - **Matplotlib**
