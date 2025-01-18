@@ -69,7 +69,7 @@ Data visualization is a key component of this project, providing graphical repre
 - **Box plots**: Show distributions, outliers, and spread of data (e.g., restaurant ratings by facilities like online orders and book tables).
   ![Box Plot - Ratings Based on Online Orders](I5.png)
   ![Box Plot - Ratings by Restaurant Type](I6.png)
-  ![](I7)
+  ![](I7.png)
 
 Visualization libraries used:
 - **Matplotlib**
