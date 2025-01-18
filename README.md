@@ -58,7 +58,8 @@ Some resolved queries include:
 Data visualization is a key component of this project, providing graphical representations of data. The following visualizations were created:
 
 - **Bar graphs**: Used to represent frequency or counts of categories (e.g., online orders, restaurant locations).
-  ![Bar Graph - Restaurants Accepting Online Orders](path_to_image1.png)
+  ![Bar Graph - Restaurants Accepting Online Orders](I-1.png)
+  ![](I2.png)
   
 - **Count plots**: Display counts of categorical variables (e.g., restaurant locations, vote counts).
   ![Count Plot - Number of Restaurants by Location](path_to_image2.png)
